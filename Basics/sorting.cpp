@@ -63,7 +63,7 @@ int main()
 
     
     sorting s;
-    s.selectionsort(a,6);
+    s.insertionsort(a,6);
 
     for(int i = 0;i<6;i++){
      cout  << a[i] << " ";
