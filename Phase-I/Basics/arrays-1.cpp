@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// sobhit sinha
+
 int getMin(int num[], int n) {
 
     int mini = INT_MAX;
